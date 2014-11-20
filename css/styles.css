@@ -20,4 +20,34 @@
 .ui.fluid.eleven.item.menu a {
 	text-decoration: none;
 	color: white;
+	font-size: .85em;
+}
+
+.ko img{
+	height: 50%;
+	width:50%;
+	margin-left: 20%;
+}
+
+.ko {
+	margin-top: -130px;
+
+}
+
+.info {
+	position: relative;
+	top: 200px;
+	right: -25%;
+}
+
+
+
+.footer {
+	min-height: 100px;
+	background: #37414c;
+}
+
+body {
+	margin-top: -20px;
+	
 }
