@@ -1,0 +1,23 @@
+#top {
+	background: -webkit-linear-gradient(#37414c, #5E6D7C);
+	min-height: 100px;
+}
+
+#header {
+	background: #37414c;
+}
+
+#header img {
+	position: relative;
+	left: 10px;
+	top: -18px;
+}
+
+.ui.fluid.eleven.item.menu {
+	background: #37414c;
+
+}
+.ui.fluid.eleven.item.menu a {
+	text-decoration: none;
+	color: white;
+}
